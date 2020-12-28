@@ -1,0 +1,4 @@
+Group members: Kadraliev Sardar and Semyon Kalinin( my second name )
+Project Title: Past simple and past participle form of verbs
+Role Distribution: Presenting-Sardar Kadraliev, creating and checking for bugs-Semyon Kalinin
+Brief summary: My project will contain all form of irragular and past simple form verbs
